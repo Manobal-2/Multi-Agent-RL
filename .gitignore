@@ -1,0 +1,14 @@
+marl-env/
+venv/
+.venv/
+env/
+
+__pycache__/
+*.pyc
+
+.ipynb_checkpoints/
+
+models/
+*.zip
+
+.DS_Store
